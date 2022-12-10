@@ -1,0 +1,30 @@
+FTP:
+    Create FTP User
+    Manage or Alter FTP user
+    Delete FTP User
+
+DNS:
+    Create new DNS zone
+    Add DNS records
+    Delete DNS records
+    Update DNS records
+
+Mails:
+    Create new Mailbox
+    Create aliases
+    Modify a Mailbox or Quota
+    Delete Mailbox
+    Setup Autoresponder
+    Email Migration
+
+Websites:
+    Create Apache vHosts (new website)
+    Create/Map Subdomains
+    Install SSL Certificates
+    Remove SSL Certificates
+    Automatic SSL Installer
+
+Backups:
+    Automatic daily backups (Incremental)
+    On-demand backup creation
+    On-demand backup restore
